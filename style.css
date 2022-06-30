@@ -19,6 +19,12 @@ body {
     max-width: 100%;
     width: 800px;
 }
+h2{
+    font-size: 30px;
+}
+.jokes{
+    font-size: 25px;
+}
 .getaJoke{
     background-color: lightblue;
     border-radius: 15px;

@@ -7,6 +7,7 @@ const jokeBtn = document.querySelector(".getaJoke");
 // grab the div class named jokes from the html doc
 const jokeDiv = document.querySelector(".jokes");
 
+// add an event to button when clicked
 jokeBtn.addEventListener("click", function(){
 
     // get the website with the dad jokes to be used
